@@ -1,0 +1,1 @@
+gcc -o main test.c climax.c
