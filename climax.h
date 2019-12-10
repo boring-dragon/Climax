@@ -1,5 +1,10 @@
 /* climax.h */
 
+/*
+Created and maintained by Mohamed Jinas (Github: jinas123)
+
+*/
+
 //Dark Color functions
 extern void darkBlue(HANDLE);
 extern void darkRed(HANDLE);
