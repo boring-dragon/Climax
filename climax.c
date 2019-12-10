@@ -1,3 +1,8 @@
+/*
+Created and maintained by Mohamed Jinas (Github: jinas123)
+
+*/
+
 #include<stdio.h>
 #include<windows.h>
 #include "climax.h"
