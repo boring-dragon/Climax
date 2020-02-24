@@ -1,5 +1,7 @@
 # Climax
-C library that allows you to easily output colored text
+C library that allows you to easily output colored text.
+
+## NOTE: Works on only windows
 
 # Usage
 
